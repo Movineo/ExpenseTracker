@@ -20,7 +20,7 @@ A simple Expense Tracker application built with PyQt5.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/ExpenseTrackerApp.git
+   git clone https://github.com/yourusername/ExpenseTracker.git
    cd ExpenseTrackerApp
 
 2. pip install -r requirements.txt
